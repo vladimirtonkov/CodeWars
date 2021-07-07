@@ -18,3 +18,5 @@ function multiples(m, n){
 
   // Examples
 // multiples(3, 5.0)
+
+// return: [5.0, 10.0, 15.0]
