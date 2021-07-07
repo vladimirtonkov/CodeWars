@@ -1,4 +1,4 @@
-//
+// https://www.codewars.com/kata/5a54e796b3bfa8932c0000ed
 
 function jumpingNumber(n){
     if (0 <= n && n <= 9) {
